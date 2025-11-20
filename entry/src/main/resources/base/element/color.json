@@ -3,6 +3,14 @@
     {
       "name": "start_window_background",
       "value": "#FFFFFF"
+    },
+    {
+      "name": "SliderSelectColor",
+      "value": "#007DFF"
+    },
+    {
+      "name": "white",
+      "value": "#FFFFFF"
     }
   ]
 }
