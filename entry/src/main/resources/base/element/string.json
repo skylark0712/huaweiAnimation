@@ -15,6 +15,10 @@
     {
       "name": "count",
       "value": "数量"
+    },
+    {
+      "name": "please_click_button",
+      "value": "请点击按钮"
     }
   ]
 }
